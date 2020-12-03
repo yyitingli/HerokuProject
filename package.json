@@ -1,0 +1,19 @@
+{
+  "name": "insert stock",
+  "version": "1.0.0",
+  "description": "node app ",
+  "main": "insert_stock.js",
+  "scripts": {
+  "start": "node insert_stock.js"
+},
+  "repository": {
+  "type": "git",
+  "url": ""
+},
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+  "url": ""
+},
+  "homepage": ""
+}
