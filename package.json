@@ -1,7 +1,7 @@
 {
   "name": "insert stock",
   "version": "1.0.0",
-  "description": "node app ",
+  "description": "node app",
   "main": "insert_stock.js",
   "scripts": {
   "start": "node insert_stock.js"
@@ -12,6 +12,10 @@
 },
   "author": "",
   "license": "ISC",
+  "dependencies": {
+   "mongodb": "^3.3.0-beta2"
+       
+},
   "bugs": {
   "url": ""
 },
