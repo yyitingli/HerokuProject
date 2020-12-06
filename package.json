@@ -1,5 +1,5 @@
 {
-  "name": "insert stock",
+  "name": "insertstock",
   "version": "1.0.0",
   "description": "node app",
   "main": "insert_stock.js",
