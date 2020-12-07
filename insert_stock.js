@@ -45,10 +45,6 @@ function formFindQuery(type, input){
 
 }
 
-function find(query){
-
-}
-
 
 function insertion(data) {
 	var message = "";
